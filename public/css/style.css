@@ -1,0 +1,92 @@
+
+*{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0;
+    font-size: 14;
+    box-sizing: border-box;
+    padding: 1em;
+   
+}
+body{
+    background-image: 50;
+    padding: 1em;
+    width: 50;
+    height: 50;
+    background-image: url(../photo/artificial-intelligence.jpg);
+    border: 20px solid #a39ad2;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  
+}
+
+
+h1{
+    background-color: brown;
+    color: bisque;
+    font-size: 26;
+    box-shadow: 70px 48px 72px 25px rgba(217,53,53,0.75);
+-webkit-box-shadow: 70px 48px 72px 25px rgba(217,53,53,0.75);
+-moz-box-shadow: 70px 48px 72px 25px rgba(217,53,53,0.75);
+text-shadow: 30px 9px 7px rgba(111,220,144,0.51);
+text-shadow: 30px 9px 2px rgba(111,220,144,0.51);
+}
+span{
+
+    color: rgb(195, 177, 211);
+}
+footer{
+    text-align: center;
+}
+h2{
+    background-color: rgb(167, 141, 167);
+    color: rgb(78, 61, 32);
+    font-size: 18;
+    padding-left: 2em;
+    box-shadow: 70px 48px 72px 25px rgba(217,53,53,0.75);
+-webkit-box-shadow: 70px 48px 72px 25px rgba(217,53,53,0.75);
+-moz-box-shadow: 70px 48px 72px 25px rgba(217,53,53,0.75);
+
+}
+h3{
+    font-size: 16;
+    box-shadow: 70px 48px 72px 25px rgba(217,53,53,0.75);
+-webkit-box-shadow: 70px 48px 72px 25px rgba(217,53,53,0.75);
+-moz-box-shadow: 70px 48px 72px 25px rgba(217,53,53,0.75);
+}
+.container img {
+    width: 50px; 
+    height: 50px;
+    }
+
+p{
+    background-color: antiquewhite;
+    padding: 1em;
+    margin-top: auto;
+    opacity: 0.8;
+    border-radius: 41px 67px 121px 72px;
+    -webkit-border-radius: 41px 67px 121px 72px;
+    -moz-border-radius: 41px 67px 121px 72px;
+    border: 25px solid #bbaba9;
+}
+
+nav{
+    background-color: rgb(219, 241, 234);
+    color: rgb(169, 199, 184);
+}
+
+li{
+    background-color: rgb(245, 216, 216);
+    color: rgb(72, 66, 78);
+}
+nav{
+    padding-left: 3em ;
+}
+nav a:hover{
+    color: rgb(151, 219, 108);
+    transform: scale(1.3);
+}
+
+.text{
+    opacity: 1;
+}
